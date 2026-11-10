@@ -1,3 +1,18 @@
+> [!NOTE]
+> **Attribution / 引用元**
+>
+> This repository is a copy of the extended AWSIM-Labs developed by another research project
+> (author: [duongtd23](https://github.com/duongtd23/), original: https://github.com/duongtd23/AWSIM-Labs).
+> It is **not** original work of this account; it was copied here only to be used as a component of
+> [AWSIM_launch](https://github.com/zlbhjl/AWSIM_launch). All credit belongs to the original author.
+>
+> 本リポジトリは他の研究（作者: [duongtd23](https://github.com/duongtd23/)、オリジナル: https://github.com/duongtd23/AWSIM-Labs）から
+> 引用・複製したものであり、本アカウントのオリジナルではありません。
+> [AWSIM_launch](https://github.com/zlbhjl/AWSIM_launch) の構成要素として利用するために置いています。
+>
+> **If you need this package, please contact the original author: https://github.com/duongtd23/**
+> **パッケージが必要な場合は、作者 https://github.com/duongtd23/ に問い合わせてください。**
+
 ## Extended AWSIM-Labs
 
 This repository provides an extended version of **AWSIM-Labs**, adding support for U-turn and swerve maneuvers as well as communication with the enhanced AWSIM-Script clients and AW-RuntimeMonitor.
